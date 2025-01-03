@@ -17,8 +17,11 @@
   <b>Ing</b>
   <br/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+  <b>Other</b>
+  <br/>
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 </div>
  <div>
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina0222&layout=compact" alt="Top Langs" /> -->
 </div>
 </div>
