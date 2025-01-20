@@ -20,7 +20,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
   
-  <b>Other</b>
+  <b>Etc</b>
   <br/>
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
 </div>
