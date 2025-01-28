@@ -18,7 +18,8 @@
   
   <b>Ing</b>
   <br/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
+  <img src="://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   
   <b>Etc</b>
   <br/>
