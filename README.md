@@ -6,6 +6,7 @@
 ![GitHub Aquarium](https://gitquarium.vercel.app/api/aquarium/hina0222)
 <br/>
 물고기 이름: Moonwalk
+<br/>
 특기 : 뒤로 헤엄
 
 </div>
