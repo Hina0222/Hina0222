@@ -4,6 +4,9 @@
 <sub>Frontend Developer</sub>
 
 ![GitHub Aquarium](https://gitquarium.vercel.app/api/aquarium/hina0222)
+<br/>
+물고기 이름: Moonwalk
+특기 : 뒤로 헤엄
 
 </div>
 
