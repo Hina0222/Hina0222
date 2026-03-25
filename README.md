@@ -3,6 +3,7 @@
 # 성지훈 · Loop
 <sub>Frontend Developer</sub>
 
+![GitHub Aquarium](https://gitquarium.vercel.app/api/aquarium/hina0222)
 
 </div>
 
