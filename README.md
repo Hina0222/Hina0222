@@ -4,9 +4,7 @@
 <sub>Frontend Developer  ·</sub>
 <sub>[블로그](https://velog.io/@hina0222/%EC%84%9C%EB%B2%84%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9E%98-%EB%B6%88%EB%9F%AC%EC%99%80%EB%B3%B4%EA%B8%B0)</sub>
 
-<a href="https://gitquarium.vercel.app/">
- <img src="https://gitquarium.vercel.app/api/aquarium/hina0222" />
-</a>
+
 
 </div>
 
